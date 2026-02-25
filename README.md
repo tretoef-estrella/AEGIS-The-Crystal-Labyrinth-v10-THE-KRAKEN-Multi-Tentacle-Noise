@@ -1,6 +1,6 @@
 # 🔱 AEGIS — The Crystal Labyrinth
 
-## v10 · THE KRAKEN — Multi-Tentacle Noise Architecture
+## v10 · THE KRAKEN — Multi-Tentacle Noise Architecture. "The Megalopolis"
 
 > *"You cannot catch the wind. You cannot hold the sea. You cannot break water."*
 
